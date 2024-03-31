@@ -1,7 +1,7 @@
 ![image](https://user-images.githubusercontent.com/121770900/214569857-02c9f037-2ae9-4d41-afd4-b6a5ad79fef4.png)
 
 <h1 align="center">Hi 👋, I'm Ashish Vinod</h1>
-<h3 align="center">A passionate Data Scientist from India</h3>
+<h3 align="center">A Passionate Data Scientist from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashish01296&label=Profile%20views&color=0e75b6&style=flat" alt="ashish01296" /> </p>
 
