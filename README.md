@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ashish Vinod</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/121770900/214569857-02c9f037-2ae9-4d41-afd4-b6a5ad79fef4.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashish01296&label=Profile%20views&color=0e75b6&style=flat" alt="ashish01296" /> </p>
 
@@ -7,15 +8,15 @@
 
 - 🌱 I’m currently learning **Data Science,Machine Learning**
 
-- 💬 Ask me about **Python,Spring Boot,Pandas,Numpy,Scikit-Learn,React.js,JavaScript,C,C++,Java,Advance Java Technology,Data Collection,Astrology**
+- 💬 Ask me about **Python,Spring Boot,Pandas,Numpy,Scikit-Learn,React.js,JavaScript,React.js,Node.js,Express,C,C++,Java,Advance Java Technology,Data Collection,Astrology**
 
 - 📫 How to reach me **ashishvinod12@outlook.com**
 
-- ⚡ Fun fact **I**
+- ⚡ Fun fact **I am Also an Astrology Researcher**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ashish vinod" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashish vinod" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ashish-vinod-4318042b9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashish vinod" height="30" width="40" /></a>
 <a href="https://kaggle.com/ashish01210" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ashish01210" height="30" width="40" /></a>
 <a href="https://instagram.com/ashish_.__1210" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ashish_.__1210" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/ashish1012" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ashish1012" height="30" width="40" /></a>
