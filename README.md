@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashish01296&label=Profile%20views&color=0e75b6&style=flat" alt="ashish01296" /> </p>
 
-- 🔭 I’m currently working on **Recession Analysis**
+- 🔭 I’m currently working on **Image Processing and Computer Vision**
 
 - 🌱 I’m currently learning **Data Science,Machine Learning**
 
