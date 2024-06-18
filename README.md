@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Data Science,Machine Learning**
 
-- 💬 Ask me about **Python,Spring Boot,Pandas,Numpy,Scikit-Learn,React.js,JavaScript,React.js,Node.js,Express,C,C++,Java,Advance Java Technology,Data Collection,Astrology**
+- 💬 Ask me about **Python,Spring Boot,Pandas,Numpy,Scikit-Learn,React.js,JavaScript,React.js,Node.js,Express.js,C,C++,Java,Advance Java Technology,Data Collection,Astrology**
 
 - 📫 How to reach me **ashishvinod12@outlook.com**
 
